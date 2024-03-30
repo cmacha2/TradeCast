@@ -38,8 +38,8 @@ Don't forget to give the project a star if it helped you!
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Your Name - [@yourTwitter](https://twitter.com/yourTwitter) - email@example.com
-Project Link: [https://github.com/yourUsername/TradeCast](https://github.com/yourUsername/TradeCast)
+Your Name - [@cmacha2_08](https://twitter.com/yourTwitter) - cmacha2.08@gmail.com
+Project Link: [https://github.com/cmacha2/TradeCast](https://github.com/cmacha2/TradeCast)
 
 ## Acknowledgements
 - [TradingView](https://www.tradingview.com)
